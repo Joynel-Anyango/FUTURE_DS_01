@@ -1,0 +1,7 @@
+# FUTURE_DS_01
+This project involves thorough Data Cleaning and Exploratory Data Analysis (EDA) of the Titanic dataset using Python. The primary objective is to derive insights about the passengers, including survival rates across various demographics (e.g., gender, age groups, and class) and identify patterns that influenced survival outcomes.
+
+# Titanic Data Analysis: Data Cleaning and EDA with Python
+Overview of the Project Cleaning and investigating the well-known Titanic dataset is the main goal of this research. To visualize survival patterns by gender, age, class, and other variables, I used exploratory data analysis (EDA), handled missing values, and cleaned data using Python in a Jupyter Notebook.
+
+Python libraries used by the following technologies: pandas, seaborn, matplotlib, and numpy Workflow for the Project Data cleaning: Because of the large number of missing values, superfluous columns like Cabin were eliminated. To guarantee data accuracy, missing values in the Age and Embarked columns were fixed. Investigative Data Analysis: Produced passenger demographic charts. examined survival rates according to age, gender, and class. examined the connections between likelihood of survival and fare. Important Results Gender: Compared to males, females had a substantially higher survival rate. Class: First-class passengers have greater survival rate.Age: Younger passengers, especially children, showed higher survival rates.
